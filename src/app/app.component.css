@@ -1,0 +1,15 @@
+nav {
+    position: absolute;
+    color: #fff;
+    z-index: 10;
+    right: 50px;
+    bottom: 30px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+    padding-left: 10px;
+}
